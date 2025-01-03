@@ -5,8 +5,8 @@ import torch.nn as nn
 import torch
 import os
 import h5py
-import model_grl2_trick1_tiny as model
-# import model_grl2_trick1_base_singletemporal as model
+import model1 as model
+
 import utils
 from scipy.io import savemat
 from tqdm import tqdm
