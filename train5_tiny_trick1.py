@@ -13,7 +13,7 @@ from torch.utils.data import DataLoader
 import torch.nn as nn
 
 import utils
-import model_grl2_trick1_tiny as model
+import model1 as model
 from Regularization import Regularization
 
 
